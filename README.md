@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title 
-Mystery — Independent Music Band 
+" Mystery — Independent Music Band "
 /> 
 <title
   <meta name="description" content="Mystery — Independent Music Band" for GitHub Pages. Stream tracks, show cover art, and link to downloads." />
