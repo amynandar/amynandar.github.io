@@ -1,2 +1,2 @@
-# Independent Music Band 
+Independent Music Independent 
 
